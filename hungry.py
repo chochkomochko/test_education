@@ -4,6 +4,8 @@ int void main() {
 int bau, may;
 int void  zoo(){
 return bau+ may;
+
+int pizza;
 }
 
 

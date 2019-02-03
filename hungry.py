@@ -9,6 +9,7 @@ int pizza;
 }
 break:
 int fries;
+int lukanka;
 
 return 0;
 }

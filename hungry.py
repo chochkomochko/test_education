@@ -12,5 +12,7 @@ break:
 int fries;
 int lukanka;
 
+---merge me
+
 return 0;
 }

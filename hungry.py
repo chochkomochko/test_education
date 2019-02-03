@@ -7,7 +7,8 @@ return bau+ may;
 
 int pizza;
 }
-
+break:
+int fries;
 
 return 0;
 }

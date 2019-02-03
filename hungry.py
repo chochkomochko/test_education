@@ -4,6 +4,7 @@ int void main() {
 int bau, may;
 int void  zoo(){
 return bau+ may;
+  -- merge by upstram
 
 int pizza;
 int burger;
